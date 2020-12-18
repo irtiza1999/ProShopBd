@@ -6,14 +6,18 @@ import Header from './components/Header'
 import HomeScreen from './screens/HomeScreen'
 import ProductScreen from './screens/ProductScreen'
 import CartScreen from './screens/CartScreen'
-import loginScreen from './screens/loginScreen'
+import LoginScreen from './screens/LoginScreen'
+import RegisterScreen from './screens/RegisterScreen'
+import ProfileScreen from './screens/ProfileScreen'
 function App() {
   return (
     <Router>
       <Header></Header>
       <main>
         <Container>
-          <Route path='/login' component={loginScreen} />
+          <Route path='/login' component={LoginScreen} />
+          <Route path='/register' component={RegisterScreen} />
+          <Route path='/profile' component={ProfileScreen} />
           <Route path='/product/:id' component={ProductScreen} />
           <Route path='/cart/:id?' component={CartScreen} />
           <Route path='/' component={HomeScreen} exact />
