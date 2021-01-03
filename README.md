@@ -6,7 +6,7 @@ ProShopBD is a simple ecommerce website. Where uses can shop their products and 
 
 ---
 
-## **Languager & technologies used**
+## **Language & technologies used**
 * JavaScript
 * ReactJS
 * NodeJS
