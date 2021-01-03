@@ -15,6 +15,7 @@ ProShopBD is a simple ecommerce website. Where uses can shop their products and 
 ---
 
 ## **Packeges used**
+
 #### Frontend
 * Bootstrap
 * React Bootstrap
@@ -24,4 +25,7 @@ ProShopBD is a simple ecommerce website. Where uses can shop their products and 
 
 #### Backend
 * Mongoose
+* ExpressJS
+* Cors
+* Body-parser
 * Nodemon
