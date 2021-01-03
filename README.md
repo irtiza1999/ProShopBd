@@ -2,7 +2,7 @@
 
 ProShopBD is a simple ecommerce website. Where uses can shop their products and it's come with a fully functional admin panel where admins can manage users, admins, products and add products also.
 <br />
-[Live website](proshopbd.herokuapp.com)
+[Live website](https://proshopbd.herokuapp.com)
 
 ---
 
@@ -25,4 +25,3 @@ ProShopBD is a simple ecommerce website. Where uses can shop their products and 
 #### Backend
 * Mongoose
 * Nodemon
----
