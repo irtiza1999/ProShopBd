@@ -5,7 +5,21 @@ ProShopBD is a simple ecommerce website. Where uses can shop their products and 
 [Live website](proshopbd.herokuapp.com)
 ---
 
-### **Languager & technologies used**
+## **Languager & technologies used**
 * JavaScript
 * ReactJS
 * NodeJS
+* MongoDB
+---
+
+## **Packeges used**
+#### Frontend
+* Bootstrap
+* React Bootstrap
+* React router
+* React redux
+* Axios
+
+#### Backend
+* Mongoose
+* Nodemon
