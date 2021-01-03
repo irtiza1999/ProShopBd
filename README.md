@@ -7,4 +7,6 @@ ProShopBD is a simple ecommerce website. Where uses can shop their products and 
 proshopbd.herokuapp.com
 
 ### Languager & technologies used
-* JavaScript * ReactJS * NodeJS
+* JavaScript
+* ReactJS
+* NodeJS
