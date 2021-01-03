@@ -27,4 +27,4 @@ ProShopBD is a simple ecommerce website. Where uses can shop their products and 
 * Nodemon
 ---
 
-![alt text](image.jpg)
+![alt text](proshop.jpg)
